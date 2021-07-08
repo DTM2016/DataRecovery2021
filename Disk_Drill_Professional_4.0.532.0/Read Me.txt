@@ -1,0 +1,8 @@
+==============
+Instructions:
+=============
+1. Install software using given installer (in Setup folder)
+2. Close program if running (Even from system tray)
+3. Extract "Crack.zip" file and Copy its content to program's installation directory (copy from x64 if your system is 64bit, from x86 otherwise)
+4. That's it, Enjoy!
+
